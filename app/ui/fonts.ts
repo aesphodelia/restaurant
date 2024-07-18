@@ -11,6 +11,6 @@ export const league_script = League_Script({
     subsets: ['latin'],
   });
   export const lusitana = Lusitana({
-    weight:['400'],
+    weight:['400', '700'],
     subsets: ['latin'],
   });
