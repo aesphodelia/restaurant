@@ -6,7 +6,7 @@ import { useState } from "react";
 import Header from "../components/header"
 import Input from "../components/input";
 
-export const usedText = {
+const usedText = {
   'restaurantName': 'Claude  Monet',
   'slogan':'Timeless elegance & exquisite flavours',
   'subslogan':'dining with distinction since 1977',
